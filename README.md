@@ -1,4 +1,4 @@
-# -diyhue-Esp32-Control-Light
+# Diyhue Esp32 Control 
 
 This was an small example to Control Phillips Hue Api on Esp32 
 
